@@ -250,7 +250,7 @@
         x =
           "Full Stack Developer, Open Source Enthusiast \ud83d\udd25. Always learning.",
         b =
-          "https://drive.google.com/file/d/1v-61Z2UDjoFrMyqukAgTeI7s2f57XkE7/view?usp=sharing",
+          "https://drive.google.com/file/d/1B6hayj4ksumF_A24QKCJxPdacg-JecVm/view?usp=sharing",
         C = "https://github.com/ortiztena",
         v = "https://www.linkedin.com/in/ortiztena",
         M = "ortiztena@gmail.com",
